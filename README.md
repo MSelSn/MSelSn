@@ -8,7 +8,7 @@ I am a passionate software developer and game designer with a strong focus on in
 
 🎮 Game Development – Designing gameplay systems, mechanics, and level scripting.
 
-🧠 Unreal Engine (UE4 & UE5) – Strong experience with Blueprints, C++, UI systems (UMG), and performance optimization.
+🧠 Unreal Engine (UE5) – Strong experience with Blueprints, C++, UI systems (UMG), and performance optimization.
 
 🎨 UI/UX Design – Creating intuitive, responsive user interfaces with a focus on player experience.
 
