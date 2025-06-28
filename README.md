@@ -4,20 +4,20 @@ I am a passionate software developer and game designer with a strong focus on in
 
 <h2>📚 Expertises</h2>
 
-<h3>💻 Software Development:</h3> Proficient in problem-solving, algorithm design, and clean code practices.
+<h3>💻 Software Development</h3> Proficient in problem-solving, algorithm design, and clean code practices.
 
-<h3>🎮 Game Development:</h3> Designing gameplay systems, mechanics, and level scripting.
+<h3>🎮 Game Development</h3> Designing gameplay systems, mechanics, and level scripting.
 
-<h3>🧠 Unreal Engine (UE5):</h3> Strong experience with Blueprints, C++, UI systems (UMG), and performance optimization.
+<h3>🧠 Unreal Engine (UE5)</h3> Strong experience with Blueprints, C++, UI systems (UMG), and performance optimization.
 
-<h3>🎨 UI/UX Design:</h3> Creating intuitive, responsive user interfaces with a focus on player experience.
+<h3>🎨 UI/UX Design</h3> Creating intuitive, responsive user interfaces with a focus on player experience.
 
-<h3>⚙️ Real-Time Systems:</h3> Building interactive, real-time applications and simulations.
+<h3>⚙️ Real-Time Systems</h3> Building interactive, real-time applications and simulations.
 
-<h3>🔁 Version Control (Git):</h3> Experienced in collaborative development and source control best practices.
+<h3>🔁 Version Control (Git)</h3> Experienced in collaborative development and source control best practices.
 
-<h3>🛠️ Debugging & Optimization:</h3> Skilled in profiling and improving performance across systems.
+<h3>🛠️ Debugging & Optimization</h3> Skilled in profiling and improving performance across systems.
 
-<h3>📂 Project Architecture:</h3> Structuring scalable and maintainable game and software projects.
+<h3>📂 Project Architecture</h3> Structuring scalable and maintainable game and software projects.
 
-<h3>✨ Creative Problem Solving:</h3> Blending technical skill with creative design thinking.
+<h3>✨ Creative Problem Solving</h3> Blending technical skill with creative design thinking.
