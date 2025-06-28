@@ -1,4 +1,4 @@
-👨🏻‍💻 About Me
+<h2>👨🏻‍💻 About Me</h2>
 
 I am a passionate software developer and game designer with a strong focus on interactive experiences and real-time systems. With hands-on experience in Unreal Engine, I specialize in creating immersive gameplay mechanics, responsive UI systems, and optimized blueprints. My development journey blends solid programming foundations with a creative vision, allowing me to build both functional and visually compelling projects. Whether working on game logic, performance optimization, or player experience, I bring a detail-oriented and problem-solving mindset to every challenge I take on.
 
